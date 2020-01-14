@@ -1,0 +1,74 @@
+.mine {
+    position: relative;
+
+    #logout {
+        width: 100%;
+        font-size: 14px;
+        height: 0.8rem;
+        line-height: 0.8rem;
+        text-align: center;
+        color: red;
+        position: fixed;
+        left: 0;
+        bottom: 60px;
+        background-color: #fff;
+    }
+}
+
+.top-section {
+    width: 100%;
+    padding: 10% 0 5%;
+    height: 16vh;
+    background-color: #f63;
+}
+
+.top-img {
+    width: 19.7333%;
+    padding-top: 19.7333%;
+    border-radius: 100%;
+    border: 4px solid #ffe699;
+    float: left;
+}
+
+.information-info {
+    width: 100%;
+    font-size: 14px;
+    height: 0.8rem;
+    line-height: 0.8rem;
+    font-size: 14px;
+    color: #333333;
+    background-color: #fff;
+    border-bottom: 1px solid #e6e4e9;
+}
+
+
+.touxiang {
+    width: 1.2rem;
+    height: 1.2rem;
+    border-radius: 50%;
+    border: 1px solid #f2f2f2;
+}
+
+.Loginmobile {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+.top-img {
+    width: 19.7333%;
+    padding-top: 19.7333%;
+    border-radius: 100%;
+    border: 4px solid #ffe699;
+    float: left;
+}
+
+.btn {
+    width: 2rem;
+    height: 1rem;
+    margin-top: 0.4rem;
+    float: left;
+    outline: none;
+    border: 0;
+    background-color: #ffd656;
+}

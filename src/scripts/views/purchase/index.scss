@@ -1,0 +1,55 @@
+.headbar {
+    padding: 10px 29px 10px 15px;
+    font-size: 14px;
+    color: #999;
+    position: relative;
+    font-weight: 400;
+}
+
+.p-r {
+    position: absolute;
+    right: 15px;
+    top: 10px;
+}
+
+.purchaseForm__remark {
+    overflow: hidden;
+    height: 45px;
+    line-height: 45px;
+    color: #666;
+    list-style: none;
+    padding-left: 15px;
+    margin: 0;
+}
+
+.purchaseForm__remarkItem {
+    float: left;
+    margin-right: 10px;
+}
+
+.purchaseForm__sign {
+    background-image: url("https://www.dpfile.com/mod/app-m-tuangou/1.3.79/css/img/comm.png");
+    background-size: 25px auto;
+    background-position: 0 -275px;
+    display: inline-block;
+    height: 18px;
+    width: 18px;
+    vertical-align: sub;
+    margin-right: 5px;
+}
+
+.purchaseForm__desc {
+    font-size: 12px;
+}
+
+.purchaseForm__submit {
+    display: block;
+    height: 40px;
+    margin: 10px 9px;
+    color: #fff;
+    background-color: #f63;
+    border-radius: 4px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 18px;
+}

@@ -1,0 +1,27 @@
+.g-box,
+#guide {
+    width: 100%;
+    height: 100%;
+}
+.g-img{
+    width: 100vw;
+    height: 100vh;
+}
+
+
+
+.g-btn {
+    width: 3.2rem;
+    height: 1.2rem;
+    background-color: #ed5f34;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 68%;
+    bottom: 0;
+    margin: auto;
+    z-index: 10;
+    outline: none;
+    border: 0;
+    font-weight: 500;
+}
